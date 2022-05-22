@@ -1,2 +1,2 @@
-# avr-projects-with-c
-This repository is for my University AVR projects.
+## avr-projects-with-c
+This repository is for my University (SBU) AVR projects.
