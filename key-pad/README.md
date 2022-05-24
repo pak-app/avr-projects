@@ -1,5 +1,5 @@
 # Keypad Project With External Interrupt
-This project was made with 2 diffrent source code and external interrupt.<br />
+This project was made with 2 diffrent source codes and external interrupt.<br />
 Clock : 8MHz<br />
 Number Of Interrupt's PIN : INT2<br />
 LCD : LM016L<br />
