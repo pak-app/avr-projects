@@ -1,3 +1,2 @@
-# avr-projects-with-c
-This repository is for my University (SBU) AVR projects.<br />
-Main AVR that I used in these projects is ATmega32.
+# AVR Keypad Project
+This repository is keypad project that developed with two diffrent methods.
