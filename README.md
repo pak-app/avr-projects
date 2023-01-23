@@ -1,2 +1,2 @@
 # AVR Keypad Project
-This repository is keypad project that developed with two diffrent methods.
+This repository is created for my university ***AVR prjects***.
